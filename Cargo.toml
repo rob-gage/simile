@@ -1,0 +1,12 @@
+# Copyright Rob Gage 2026
+
+[package]
+name = "simile"
+version = "0.0.0"
+edition = "2021"
+description = "Search engine for equivalent terms"
+license = "0BSD"
+repository = "https://github.com/rob-gage/simile"
+readme = "README.md"
+
+[dependencies]
